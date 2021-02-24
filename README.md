@@ -1,9 +1,7 @@
 # simple_fraudulent-
 
-# ลองทำตามเวิคชอป
-https://www.dataquest.io/blog/regular-expressions-data-scientists/
-
-# ให้เพิ่มการค้นหาบางอย่างเกี่ยวกับ Fraudulent email
-
-# เขียน code และ push code ขึ้นมาใน Branch ของตัวเอง 
-# อธิบายเป็น .md เหมือนเดิม
+1. ลองทำตามเวิคชอป
+  https://www.dataquest.io/blog/regular-expressions-data-scientists/
+2. ให้เพิ่มการค้นหาบางอย่างเกี่ยวกับ Fraudulent email
+3. เขียน code และ push code ขึ้นมาใน Branch ของตัวเอง 
+4.  อธิบายเป็น .md เหมือนเดิม
